@@ -6,9 +6,13 @@
 	path = topic_01_functions/functional-python
 	url = https://github.com/mikeizbicki/functional-python
 
-#[submodule "html_validator"]
-	#path = week_02/html_validator
-	#url = https://github.com/mikeizbicki/html_validator
+[submodule "html_validator"]
+	path = topic_02_stack/html_validator
+	url = https://github.com/mikeizbicki/html_validator
+
+[submodule "pytest-lab"]
+	path = topic_02_stack/pytest-lab_validator
+	url = https://github.com/mikeizbicki/pytest-lab
 
 #[submodule "example-homework"]
 	#path = week_02/example-homework
